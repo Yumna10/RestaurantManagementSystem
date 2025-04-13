@@ -16,7 +16,7 @@ The database design for the Restaurant Management System consists of several ent
 - **Menu Management**: Track menu items and link them to orders.
 - **Payment Processing**: Record payment methods used by customers for orders.
 
-## Mapping Overview
+## ERD, Mapping Overview
 
 The database schema is mapped to show the relationships between different entities. Below is a detailed explanation of these mappings.
 
